@@ -78,6 +78,10 @@ Resposta:
         "text": "Tired of writing endless social media content? Let Content Caddy generate it for you."
     } }
 
+Print: 
+
+![print](imagem_2025-08-08_112331546.png)
+
 ---
 
 ## 📝 POST – Criar novo usuário
@@ -99,8 +103,13 @@ Resposta:
   "createdAt": "2025-08-08T..."
 }
 
+Print:
+
+
+
+
 ## 🔄 PUT – Atualizar dados de usuário
 Descrição: Atualiza os dados de um usuário existente.
 Método: PUT
 URL: https://reqres.in/api/users/2
-Headers:
+Headers: 
