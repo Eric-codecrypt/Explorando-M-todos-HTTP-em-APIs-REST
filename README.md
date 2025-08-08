@@ -1,6 +1,6 @@
 ## ✅ Atividade: Explorando Métodos HTTP em APIs REST
 Curso: Técnico em Desenvolvimento de Sistemas,
-Formato: Em Markdown com explicações
+Formato: Em Markdown com explicações,
 API utilizada: https://reqres.in/
 
 
