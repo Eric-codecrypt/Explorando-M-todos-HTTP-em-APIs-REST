@@ -1,5 +1,5 @@
 ## ✅ Atividade: Explorando Métodos HTTP em APIs REST
-Curso: Técnico em Desenvolvimento de Sistemas
+Curso: Técnico em Desenvolvimento de Sistemas,
 Formato: Em Markdown com explicações
 API utilizada: https://reqres.in/
 
@@ -8,9 +8,9 @@ API utilizada: https://reqres.in/
 
 ## 🌐 GET – Buscar lista de usuários
 Descrição: Busca os usuários.
-Método: GET
-URL: https://reqres.in/api/users
-Headers: Nenhum necessário
+Método: GET,
+URL: https://reqres.in/api/users,
+Headers: Nenhum necessário,
 Body: Não se aplica
 
 Resposta:
@@ -86,13 +86,13 @@ Print:
 
 ## 📝 POST – Criar novo usuário
 Descrição: Cria um novo usuário fictício.
-Método: POST
-URL: https://reqres.in/api/users
-Headers: Content-Type: application/json
+Método: POST,
+URL: https://reqres.in/api/users,
+Headers: Content-Type: application/json,
 Body (JSON): {
   "name": "Eric",
   "job": "Estudante"
-}
+},
 
 Resposta:
 
@@ -108,13 +108,13 @@ Print:
 
 ## 🔄 PUT – Atualizar dados de usuário
 Descrição: Atualiza os dados de um usuário existente.
-Método: PUT
-URL: https://reqres.in/api/users/2
-Headers: Content-Type: application/json
+Método: PUT,
+URL: https://reqres.in/api/users/2,
+Headers: Content-Type: application/json,
 Body: {
   "name": "Eric",
   "job": "Dev Júnior"
-}
+},
 
 Resposta: 
 
@@ -129,10 +129,10 @@ Print:
 
 ## ❌ DELETE – Remover usuário
 Descrição: Remove um usuário específico.
-Método: DELETE
-URL: https://reqres.in/api/users/2
-Headers: Nenhum necessário
-Body: Não se aplica
+Método: DELETE,
+URL: https://reqres.in/api/users/2,
+Headers: Nenhum necessário,
+Body: Não se aplica,
 
 Resposta: 
 
