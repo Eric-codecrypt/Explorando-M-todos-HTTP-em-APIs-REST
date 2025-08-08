@@ -110,4 +110,18 @@ Print:
 Descrição: Atualiza os dados de um usuário existente.
 Método: PUT
 URL: https://reqres.in/api/users/2
-Headers: 
+Headers: Content-Type: application/json
+Body: {
+  "name": "Eric",
+  "job": "Dev Júnior"
+}
+
+Resposta: 
+
+{
+    "updatedAt": "2025-08-08T14:37:22.497Z"
+}
+
+Print: 
+
+![print]()
