@@ -97,15 +97,13 @@ Body (JSON): {
 Resposta:
 
 {
-  "name": "Eric",
-  "job": "Estudante",
-  "id": "123",
-  "createdAt": "2025-08-08T..."
+    "id": "466",
+    "createdAt": "2025-08-08T14:32:32.165Z"
 }
 
 Print:
 
-
+![print](imagem_2025-08-08_113650881.png)
 
 
 ## 🔄 PUT – Atualizar dados de usuário
