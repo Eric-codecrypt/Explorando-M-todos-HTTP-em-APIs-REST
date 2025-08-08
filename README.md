@@ -125,3 +125,21 @@ Resposta:
 Print: 
 
 ![print](download(2).png)
+
+
+## ❌ DELETE – Remover usuário
+Descrição: Remove um usuário específico.
+Método: DELETE
+URL: https://reqres.in/api/users/2
+Headers: Nenhum necessário
+Body: Não se aplica
+
+Resposta: 
+
+Código HTTP: 204 No Content
+
+Corpo: vazio
+
+Print:
+
+![print]()
